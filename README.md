@@ -18,3 +18,4 @@ If you attended a Picademy and you're not a member of a Picademy team on GitHub,
 - [Raspberry Pi resources](http://www.raspberrypi.org/resources)
 - [Raspberry Pi Forums](http://www.raspberrypi.org/forums/)
 - [Raspberry Pi Learning on GitHub](https://github.com/raspberrypilearning)
+- [GitHub for Education](https://education.github.com/)
