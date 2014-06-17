@@ -10,7 +10,7 @@ See our guide to [Creating resources](https://github.com/raspberrypilearning/cre
 
 ## Picademy GitHub Membership
 
-If you attended a Picademy and you're not a member of a Picademy team on GitHub, please contact [Ben Nuttall](https://github.com/)
+If you attended a Picademy and you're not a member of a Picademy team on GitHub, please contact [Ben Nuttall](https://github.com/bennuttall)
 
 ## Other Links
 
