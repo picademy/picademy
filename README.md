@@ -2,7 +2,7 @@
 
 This repository contains information for Picademy delegates (past, current and future), and links to related material.
 
-See more information about Picademy at [raspberrypi.org/picademy](http://www/raspberrypi.org/picademy/).
+See more information about Picademy at [raspberrypi.org/picademy](http://www.raspberrypi.org/picademy/).
 
 ## Creating resources
 
