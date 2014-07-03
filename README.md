@@ -6,7 +6,7 @@ See more information about Picademy at [raspberrypi.org/picademy](http://www.ras
 
 ## Creating resources
 
-See our guide to [Creating resources](https://github.com/raspberrypilearning/creating-resources) for your own use or for the Raspberry Pi website. This guide also features information on [using GitHub](https://github.com/raspberrypilearning/creating-resources/blob/master/github/README.md).
+See our guide to [Creating resources](https://github.com/raspberrypilearning/creating-resources/blob/master/README.md) for your own use or for the Raspberry Pi website. This guide also features information on [using GitHub](https://github.com/raspberrypilearning/creating-resources/blob/master/github/README.md).
 
 ## Picademy GitHub Membership
 
